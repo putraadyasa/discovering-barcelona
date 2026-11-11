@@ -35,4 +35,5 @@ The dataset is sourced from [Kaggle - Barcelona Data Sets](https://www.kaggle.co
 
 ## How to Run
 
-Open
+Open in Google Colab:  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/putraadyasa/discovering-barcelona/blob/main/Discovering_Barcelona.ipynb)
